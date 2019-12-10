@@ -14,3 +14,5 @@ end
 #     puts "Hi, #{name}"
 #   end
 # end
+
+hello_t(array)
